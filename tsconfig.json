@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "jsx": "react",        // Aktiviert JSX-Syntax und setzt sie auf "react"
+    "target": "es6",        // oder höher, um moderne JavaScript-Funktionen zu unterstützen
+    "module": "commonjs",   // oder "esnext", je nach Projektanforderung
+    "lib": ["dom", "es2015"] // Falls notwendig, um DOM- und ES6-APIs zu nutzen
+  }
+}

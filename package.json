@@ -1,0 +1,24 @@
+{
+  "name": "react-timeline-component",
+  "version": "1.0.0",
+  "description": "A React component for displaying events on a horizontal timeline.",
+  "main": "src/Timeline.tsx",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nils-nilsen/horizontal-react-timline.git"
+  },
+  "keywords": ["react", "timeline", "component", "horizontal-timline"],
+  "author": "nils-nilsen",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.0.0",
+    "antd": "^4.0.0",
+    "@ant-design/icons": "^4.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.0"
+  }
+}
