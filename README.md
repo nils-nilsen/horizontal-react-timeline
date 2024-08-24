@@ -16,7 +16,7 @@ npm install nils-nilsen/react-timeline-component
 ### Using Yarn:
 
 ```bash
-yarn add your-username/react-timeline-component
+yarn add nils-nilsen/react-timeline-component
 ```
 
 ## Usage
