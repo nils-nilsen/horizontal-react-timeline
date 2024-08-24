@@ -43,7 +43,7 @@ function App() {
 export default App;
 ```
 
-## Probs
+## Props
 ### Timeline Component
 
 | Prop     | Type            | Required | Description                                                      |
@@ -53,10 +53,10 @@ export default App;
 
 ### Event Object
 
-| Property | Type     | Required | Description                                         |
-|----------|----------|----------|-----------------------------------------------------|
-| `date`   | `string` | Yes      | The date of the event in `YYYY-MM-DD` format.       |
-| `name`   | `string` | Yes      | The name or title of the event.                     |
+| Prop   | Type     | Required | Description                                         |
+|--------|----------|----------|-----------------------------------------------------|
+| `date` | `string` | Yes      | The date of the event in `YYYY-MM-DD` format.       |
+| `name` | `string` | Yes      | The name or title of the event.                     |
 
 
 ## License
