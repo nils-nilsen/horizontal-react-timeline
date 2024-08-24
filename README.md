@@ -23,7 +23,7 @@ yarn add nils-nilsen/horizontal-react-timeline
 Here’s an example of how to use the Timeline component in your project:
 ```jsx
 import React from 'react';
-import Timeline from 'react-timeline-component';
+import Timeline from 'horizontal-react-timeline';
 
 const events = [
     { date: '2024-08-24', name: 'Event 1' },
