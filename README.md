@@ -57,3 +57,18 @@ export default App;
 |----------|----------|----------|-----------------------------------------------------|
 | `date`   | `string` | Yes      | The date of the event in `YYYY-MM-DD` format.       |
 | `name`   | `string` | Yes      | The name or title of the event.                     |
+
+
+## License
+
+This project is licensed under the MIT License.
+
+###  Libraries Used
+This project makes use of the following open-source libraries:
+
+- [React](https://react.dev): A JavaScript library for building user interfaces.
+- [Ant Design](https://ant.design): A design system for enterprise-level products, which provides a set of React components.
+- [@ant-design/icons](https://github.com/ant-design/ant-design-icons): A package that provides icons for Ant Design.
+
+
+Please ensure you comply with the respective licenses of these libraries when using or distributing this component.
