@@ -11,12 +11,12 @@ You can install this component directly from the GitHub repository.
 ### Using npm:
 
 ```bash
-npm install nils-nilsen/react-timeline-component
+npm install nils-nilsen/horizontal-react-timline
 ```
 ### Using Yarn:
 
 ```bash
-yarn add nils-nilsen/react-timeline-component
+yarn add nils-nilsen/horizontal-react-timline
 ```
 
 ## Usage
