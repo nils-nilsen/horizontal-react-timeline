@@ -1,6 +1,8 @@
 # Horizontal Timeline Component for React
 
-I couldn't find a simple, minimalist horizontal timeline for React. The good ones are all vertical. So I made my own.
+I couldn't find a simple, minimalist horizontal timeline for React. The good ones are all vertical. So I made my own:
+
+![Timeline Screenshot](assets/screenshot-timeline.png)
 
 
 ## Installation
